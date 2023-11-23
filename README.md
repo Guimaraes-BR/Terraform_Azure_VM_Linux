@@ -1,2 +1,6 @@
 # Terraform_Azure_VM_Linux
-Código para cria uma VM Linux Azure
+Código para criar uma VM Linux Azure
+Para utilizar a ssh key, será necessário criar no portal Azure
+
+Link:
+https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal
