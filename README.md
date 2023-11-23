@@ -6,8 +6,10 @@ Para utilizar a ssh key, será necessário criar no portal Azure.
 
 A ssh Key está declarada no arquivo "vm-lnx.tf"
 
-Link:
+Link ssh key:
 https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal
 
+Link hashicorp/terraform:
+https://registry.terraform.io/providers/hashicorp/azurerm/latest
 
 
