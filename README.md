@@ -2,7 +2,7 @@
 
 Código para criar uma VM Linux Azure com IP público.
 
-Para utilizar a ssh key, será necessário criar no portal Azure.
+Para utilizar a ssh key, será necessário criar no portal Azure e fazer o download após criado.
 
 A ssh Key está declarada no arquivo "vm-lnx.tf"
 
